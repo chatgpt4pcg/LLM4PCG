@@ -1,6 +1,6 @@
 # The LLMs4PCG Competition: Character-like Level Generation for Science Birds
 
-![image](https://github.com/chatgpt4pcg/LLM4PCG/blob/main/LLM4PCG.png)
+![image](https://github.com/chatgpt4pcg/LLM4PCG/blob/main/LLMs4PCG.png)
 
 Welcome to the 2025 LLMs4PCG Competition. Here you will be provided all the necessary information needed to participate in the competition. Please remember to read carefully and thoroughly before contacting us for any questions you might have. 
 
