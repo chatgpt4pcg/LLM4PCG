@@ -1,12 +1,12 @@
-# The LLM4PCG Competition: Character-like Level Generation for Science Birds
+# The LLMs4PCG Competition: Character-like Level Generation for Science Birds
 
 ![image](https://github.com/chatgpt4pcg/LLM4PCG/blob/main/LLM4PCG.png)
 
-Welcome to the 2025 LLM4PCG Competition. Here you will be provided all the necessary information needed to participate in the competition. Please remember to read carefully and thoroughly before contacting us for any questions you might have. 
+Welcome to the 2025 LLMs4PCG Competition. Here you will be provided all the necessary information needed to participate in the competition. Please remember to read carefully and thoroughly before contacting us for any questions you might have. 
 
-### What is the LLM4PCG Competition:
+### What is the LLMs4PCG Competition:
 ----
-The LLM4PCG Competition continues the challenging and exciting spirit of the first and second Chatgpt4pcg competitions. In this edition, we not only challenge participants to come up with a prompt to construct stable Science Birds levels resembling uppercase English characters, but we also open up the possibility of incorporating more complex prompt engineering techniques. This time, we allow the submission of a program in which participants can build on top of our examples and packages, enabling the use of conditions and iterations in programming to develop their own advanced prompt engineering techniques, and potentially create new ones!
+The LLMs4PCG Competition continues the challenging and exciting spirit of the first and second Chatgpt4pcg competitions. In this edition, we not only challenge participants to come up with a prompt to construct stable Science Birds levels resembling uppercase English characters, but we also open up the possibility of incorporating more complex prompt engineering techniques. This time, we allow the submission of a program in which participants can build on top of our examples and packages, enabling the use of conditions and iterations in programming to develop their own advanced prompt engineering techniques, and potentially create new ones!
 
 We welcome participants of all levels, whether you only modify a prompt in a provided example or come up with a complex logic through prompt engineering. All programs will be inspected for qualification, subject to the competition rules, and used to generate levels for each target English uppercase character. The generated levels are then tested for stability using our Science Birds Evaluator and checked for similarity to respective target characters using an upgraded Vision Transformer (ViT) classifier. This edition also introduces a new metric--diversity, making it more challenging. Now, not only do the prompts and/or prompt engineering techniques developed by participants need to generate stable and similar levels, but they also need to generate diverse levels.
 ### Quick Start:
